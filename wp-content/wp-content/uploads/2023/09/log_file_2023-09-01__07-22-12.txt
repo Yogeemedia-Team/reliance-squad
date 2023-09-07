@@ -1,0 +1,56 @@
+
+---Downloaded files---
+The import files for: rescues were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/reliance-security
+Data file = /opt/lampp/htdocs/reliance-security/wp-content/themes/rescues/custom/one-click/rescues_wordpress.xml
+Widget file = /opt/lampp/htdocs/reliance-security/wp-content/themes/rescues/custom/one-click/rescues_widgets_settings.wie
+Customizer file = /opt/lampp/htdocs/reliance-security/wp-content/themes/rescues/custom/one-click/rescues_customizer_export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar 1 : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Sidebar 2 : 
+
+Block - No Title - Imported
+Active Product Filters - Active filters - Imported
+Filter Products by Price - Filter by price - Imported
+Filter Products by Attribute - Size - Imported
+Filter Products by Attribute - Color - Imported
+Product Tag Cloud - Product tags - Imported
+
+Footer 1 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer 2 : 
+
+Block - No Title - Imported
+
+Footer 3 : 
+
+Block - No Title - Imported
+
+Footer 6 : 
+
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+Slider import successfully
